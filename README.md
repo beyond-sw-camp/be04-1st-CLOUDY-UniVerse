@@ -139,29 +139,24 @@
 2. 정규화 이후 ERD 및 UPDATE 내용
 3. 최종 검토 및 개선
 
----
-
-
 ## 🚀 진행과정
 
---- 
 ### 1. **정규화 이전 ERD**
-  <figure align="center"> 
-    <img src="https://github.com/beyond-sw-camp/be04-1st-CLOUDY-UniVerse/assets/122339395/3a3997d4-4495-436e-bec8-5ff967ae2f69" alt="">
-    <figcaption style="text-align:center">정규화 이전 ERD</figcaption>
-  </figure>
+
+  <div align="cneter">
+    <img src="https://github.com/beyond-sw-camp/be04-1st-CLOUDY-UniVerse/assets/122339395/3a3997d4-4495-436e-bec8-5ff967ae2f69"/>
+    <p align="center">정규화 이전 ERD</p>
+  </div>
+
+
 
   <details>
   <summary>정규화 이전 테이블 정의서</summary>
-  <div>
-  
-  <figure align="center"> 
-    <img src="https://github.com/beyond-sw-camp/be04-1st-CLOUDY-UniVerse/assets/122339395/bb9fa74c-03df-4d6b-9492-f8476ef80db5" alt="">
-   <figcaption style="text-align:center">정규화 이전 테이블 정의서</figcaption>
-  </figure>
-  
+  <div align="cneter">
+    <img src="https://github.com/beyond-sw-camp/be04-1st-CLOUDY-UniVerse/assets/122339395/bb9fa74c-03df-4d6b-9492-f8476ef80db5"/>
+    <p align="center">정규화 이전 테이블 정의서</p>
   </div>
-  </details>
+ </details>
 
 
 
@@ -169,12 +164,11 @@
 
 
 ### 2. **정규화 이후 ERD**
-  <figure align="center"> 
-    <img src="https://github.com/beyond-sw-camp/be04-1st-CLOUDY-UniVerse/assets/122339395/d4a7dd77-d840-47fd-8cc8-a29550e014d6" alt="">
-    <figcaption style="text-align:center">정규화 이후 ERD</figcaption>
-  </figure>
 
-
+  <div align="cneter">
+    <img src="https://github.com/beyond-sw-camp/be04-1st-CLOUDY-UniVerse/assets/122339395/d4a7dd77-d840-47fd-8cc8-a29550e014d6"/>
+    <p align="center">정규화 이후 ERD</p>
+  </div>
 
 ***UPDATE 내용***
 > **기자재 카테고리**
@@ -197,13 +191,14 @@
 <summary>정규화 이후 테이블 정의서</summary>
 <div>
 
-<figure align="center"> 
-  <img src="https://github.com/beyond-sw-camp/be04-1st-CLOUDY-UniVerse/assets/122339395/02adfb88-0ff1-4d75-9ad9-8999e0fd7cb6" alt="">
- <figcaption style="text-align:center">정규화 이후 테이블 정의서</figcaption>
-</figure>
+  <details>
+  <summary>정규화 이전 테이블 정의서</summary>
+  <div align="cneter">
+    <img src="https://github.com/beyond-sw-camp/be04-1st-CLOUDY-UniVerse/assets/122339395/02adfb88-0ff1-4d75-9ad9-8999e0fd7cb6"/>
+    <p align="center">정규화 이전 테이블 정의서</p>
+  </div>
+ </details>
 
-</div>
-</details>
 
 ---
 
@@ -297,15 +292,14 @@
 <summary>정규화 이후 테이블 정의서</summary>
 <div>
 
-<figure align="center"> 
-  <img src="https://github.com/beyond-sw-camp/be04-1st-CLOUDY-UniVerse/assets/122339395/1d901583-c90c-4a0d-9841-3b45d507bc1e"/>
- <figcaption style="text-align:center">최종 테이블 정의서</figcaption>
-</figure>
 
-</div>
-</details>
-
-
+  <details>
+  <summary>최종 테이블 정의서</summary>
+  <div align="cneter">
+    <img src="https://github.com/beyond-sw-camp/be04-1st-CLOUDY-UniVerse/assets/122339395/1d901583-c90c-4a0d-9841-3b45d507bc1e"/>
+    <p align="center">최종 테이블 정의서</p>
+  </div>
+ </details>
 
 ---
 # 4. Ubuntu 리눅스에 mariadb 서버 구축
