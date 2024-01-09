@@ -6,9 +6,10 @@
 ```😎곽윤경 😶‍🌫️김규린 🦄박경덕 🎸이기연 💩이현우 😺임원재```
 
 #### 🚀Use Tool & Tech
-![Ubuntu](https://img.shields.io/badge/ubuntu-444444?style=for-the-badge&logo=ubuntu)
-![linux](https://img.shields.io/badge/linux-444444?style=for-the-badge&logo=linux)
-![mariadb](https://img.shields.io/badge/mariadb-444444?style=for-the-badge&logo=mariadb)
+![Ubuntu](https://img.shields.io/badge/ubuntu-orange?style=for-the-badge&logo=ubuntu)
+![linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=linux)
+![mariadb](https://img.shields.io/badge/mariadb-gray?style=for-the-badge&logo=mariadb)
+
 ### 🗓️ 전체 프로젝트 일정
 <details> 
 <summary>프로젝트 일정 : 2024년 01월 02일 ~ 2024년 01월 09일(WBS)</summary>
@@ -22,8 +23,23 @@
 
 ---
 # 📌 목차
-[1. 프로젝트 개요](#1.-프로젝트-개요)
-
+- [1. 프로젝트 개요](#1-프로젝트-개요)
+    + [서비스 소개 및 목적](#서비스-소개-및-목적)
+- [2. 요구사항정의](#2-요구사항정의)
+    + [📖 시나리오](#-------)
+    + [📘 시스템(기능명세)](#------------)
+    + [✅ 요구사항정의서](#---------)
+- [3. DB 모델링 및 개선과정](#3-db-----------)
+  * [📌 **목표**](#---------)
+  * [🚀 진행과정](#-------)
+- [4. Ubuntu 리눅스에 mariadb 서버 구축](#4-ubuntu------mariadb------)
+    + [Virtual Box / Ubuntu Linux 실행하여 Replication 서버 구축](#virtual-box---ubuntu-linux------replication------)
+    + [master 환경 설정 단계](#master---------)
+    + [slave 환경 설정 단계](#slave---------)
+    + [slave에서 INSERT 이벤트 방지를 위한 설정](#slave---insert--------------)
+    + [구축된 Server 정보](#----server---)
+- [5. 테스트 설계 및 진행](#5-테스트-설계-및-진행)
+    + [🖥️ ️테스트 결과](#-----------)
 
 ---
 
