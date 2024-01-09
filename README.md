@@ -187,9 +187,6 @@
 >  - 좀 더 직관적으로 이해하기 위해 컬럼명 변경
   
 <br/>  
-<details>
-<summary>정규화 이후 테이블 정의서</summary>
-<div>
 
   <details>
   <summary>정규화 이전 테이블 정의서</summary>
@@ -288,9 +285,6 @@
 
 <br/>
 
-<details>
-<summary>정규화 이후 테이블 정의서</summary>
-<div>
 
 
   <details>
