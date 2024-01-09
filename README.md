@@ -38,7 +38,7 @@
        4. [최종 검토 및 개선](#4-최종-검토-및-개선)
 ---
 
-# 프로젝트 개요
+# 1. 프로젝트 개요
 
 <p align="center">
     <img src="https://github.com/DemianStudio/DataBase/assets/122339395/d4a7bcb4-e5e6-493c-91bb-eba0426068e3" style="width:100%; height:100%;" />
@@ -189,10 +189,10 @@
 <br/>  
 
   <details>
-  <summary>정규화 이전 테이블 정의서</summary>
+  <summary>정규화 이후 테이블 정의서</summary>
   <div align="cneter">
     <img src="https://github.com/beyond-sw-camp/be04-1st-CLOUDY-UniVerse/assets/122339395/02adfb88-0ff1-4d75-9ad9-8999e0fd7cb6"/>
-    <p align="center">정규화 이전 테이블 정의서</p>
+    <p align="center">정규화 이후 테이블 정의서</p>
   </div>
  </details>
 
@@ -358,7 +358,7 @@ flush privileges;
 >- Port: 3306
 
 ---
-# 4. 테스트 설계 및 진행
+# 5. 테스트 설계 및 진행
 <div align="center">
 <img src="https://github.com/beyond-sw-camp/be04-1st-CLOUDY-UniVerse/assets/122339395/0dd09fd8-4306-46cb-bf3f-c9009d24d390"/>
 <p align="center">사용자 기반 기능 단위 테스트 정의서</p>
