@@ -6,10 +6,10 @@
 #### 🌱 TEAM
 ```😎곽윤경 😶‍🌫️김규린 🦄박경덕 🎸이기연 💩이현우 😺임원재```
 
-#### 🚀Use Tool & Tech
-![Ubuntu](https://img.shields.io/badge/ubuntu-444444?style=for-the-badge&logo=ubuntu)
-![linux](https://img.shields.io/badge/linux-444444?style=for-the-badge&logo=linux)
-![mariadb](https://img.shields.io/badge/mariadb-444444?style=for-the-badge&logo=mariadb)
+#### 🚀 Use Tech
+![Ubuntu](https://img.shields.io/badge/ubuntu-orange?style=for-the-badge&logo=ubuntu)
+![linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=linux)
+![mariadb](https://img.shields.io/badge/mariadb-gray?style=for-the-badge&logo=mariadb)
 ### 🗓️ 전체 프로젝트 일정
 <details> 
 <summary>프로젝트 일정 : 2024년 01월 02일 ~ 2024년 01월 09일(WBS)</summary>
