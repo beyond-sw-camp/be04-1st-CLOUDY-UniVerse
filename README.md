@@ -1,4 +1,5 @@
-![venom](https://capsule-render.vercel.app/api?type=venom&height=200&text=한화시스템%20SW%20CAMP%204기%202조&fontSize=40&color=100:ffffff,100:CEE3F6&stroke=ffffff)
+![venom](https://capsule-render.vercel.app/api?type=venom&height=200&text=한화시스템%20SW%20CAMP%204기%202조&fontSize=40&color=100:ff7f00,100:ff4505&stroke=ffffff)
+
 ---
 <a href = "https://demianstudio.notion.site/2-OH-JO-e87da7c22c564501ac72fbbf0f6915f4?pvs=4"><img src="https://img.shields.io/badge/팀 Notion-ffffff?style=flat&logo=Notion&logoColor=black" /></a>
 
@@ -6,10 +7,9 @@
 ```😎곽윤경 😶‍🌫️김규린 🦄박경덕 🎸이기연 💩이현우 😺임원재```
 
 #### 🚀Use Tool & Tech
-![Ubuntu](https://img.shields.io/badge/ubuntu-orange?style=for-the-badge&logo=ubuntu)
-![linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=linux)
-![mariadb](https://img.shields.io/badge/mariadb-gray?style=for-the-badge&logo=mariadb)
-
+![Ubuntu](https://img.shields.io/badge/ubuntu-444444?style=for-the-badge&logo=ubuntu)
+![linux](https://img.shields.io/badge/linux-444444?style=for-the-badge&logo=linux)
+![mariadb](https://img.shields.io/badge/mariadb-444444?style=for-the-badge&logo=mariadb)
 ### 🗓️ 전체 프로젝트 일정
 <details> 
 <summary>프로젝트 일정 : 2024년 01월 02일 ~ 2024년 01월 09일(WBS)</summary>
@@ -381,7 +381,7 @@ flush privileges;
 
 [![GitHub close issues](https://img.shields.io/github/issues-closed/beyond-sw-camp/be04-1st-CLOUDY-UniVerse)](https://github.com/beyond-sw-camp/be04-1st-CLOUDY-UniVerse/issues?q=is%3Aissue+is%3Aclosed)
 
-### Query TEST
+### _Query TEST_
 <details>
 <summary>#ISSUE_개인정보 조회</summary>
 <div>
@@ -552,7 +552,11 @@ flush privileges;
 </div>
 </details>
 
-### TRIGER
+### _TRIGER_
+
+
+
+![TRIGGER_UPDATE_EQUIPMENT_RESIDUAL_CNT.gif](..%2F..%2F..%2F..%2FDownloads%2FTRIGGER_UPDATE_EQUIPMENT_RESIDUAL_CNT.gif)
 
 
 ### VIEW
@@ -564,7 +568,8 @@ flush privileges;
 ## TEAM
 > 최종 산출물을 검토하는 과정에서 학생과 성적에 대한 데이터를 더 효율적으로 관리할 수 있는 방법 중 하나인 exam_tb 테이블을 생각하지 못한 것에 대한 아쉬움이 있다. 이를 계기로 대상에 대한 관계 요소를 분석하고 정리하는 과정이 중요하다는 것을 알게 되었다.
 <br/>
-## ***MEMBER***
+
+## _MEMBER_
 
 ## 🦄 박경덕
 
