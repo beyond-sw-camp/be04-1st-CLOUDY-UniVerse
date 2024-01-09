@@ -439,7 +439,7 @@ flush privileges;
     <p>교수가 본인 ID와 비밀번호 조회</p>
  </figure>
 </div>
-
+</details>
 <details>
 <summary>학과 조회</summary>
 <div>
