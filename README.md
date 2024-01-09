@@ -58,19 +58,21 @@
 > **💡 고객(대학)이 기존 통합 관리 시스템에서 학사 관리, 재무, 학생 정보 등 다양한 기능 단위 서비스를 운영하고 확장하는 것에 어려움이 있기에 클라우드 기술을 도입함으로써, 유지보수 및 기능개선에 더 용이한
 서비스(사용자 경험 개선, 데이터 통합 및 분석, 자동화 및 프로세스 최적화, 지속적인 개선 및 확장 유연성, 그리고 협력과 표준 준수를 통한 효율적인 운영)를 제공하고자 합니다.**
 
-<div align="center">
+<div align="center" style="border:1px solid black">
 <img src="https://image.samsungsds.com/kr/insights/2023_cloud_trends_img01.jpg?queryString=20231030024258" alt="">
-<p align="ceneter">[그림 1] 클라우드 컴퓨팅 활용 현황과 전망 - </p>
-</div>
-
-<div align="center">
-<img src="https://image.samsungsds.com/kr/insights/2023_cloud_trends_img03.jpg?queryString=20231030024258" alt="">
-<p align="ceneter">[그림 2] 클라우드 컴퓨팅에 대한 기대효과의 변화</p>
+<p align="ceneter">[그림 1] 클라우드 컴퓨팅 활용 현황과 전망</p>
+<p align="ceneter">출처 - 2023년 국내 클라우드 컴퓨팅 도입 현황 조사 및 전망 | 인사이트리포트 | 삼성SDS</p>
 </div>
 
 <br/>
 
-**그림 출처 - 2023년 국내 클라우드 컴퓨팅 도입 현황 조사 및 전망 | 인사이트리포트 | 삼성SDS**
+<div align="center" style="border:1px solid black">
+<img src="https://image.samsungsds.com/kr/insights/2023_cloud_trends_img03.jpg?queryString=20231030024258" alt="">
+<p align="ceneter">[그림 2] 클라우드 컴퓨팅에 대한 기대효과의 변화</p>
+<p align="ceneter">출처 - 2023년 국내 클라우드 컴퓨팅 도입 현황 조사 및 전망 | 인사이트리포트 | 삼성SDS</p>
+</div>
+
+<br/>
 
 
 
