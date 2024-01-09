@@ -133,7 +133,6 @@
 
 # 3. DB 모델링 및 개선과정  
 
----
 ## 📌 **목표**
 
 1. 정규화 이전 ERD
@@ -445,9 +444,11 @@ flush privileges;
 <div>
 <figure align="center"> 
   <img src="https://github.com/beyond-sw-camp/be04-1st-CLOUDY-UniVerse/assets/122339395/8b72fb8d-811a-46fa-abe4-f7bf3cf58109"/>
-<p align="center">학생이 학번이랑 비밀번호 조회</p>
+    <p align="center">학생이 학번이랑 비밀번호 조회</p>
 <img src="https://github.com/beyond-sw-camp/be04-1st-CLOUDY-UniVerse/assets/122339395/9253ce7a-4695-430f-80fe-5670fe1630be"/>
-<p align="cneter">교수가 본인 ID와 비밀번호 조회</p>
+    <p align="cneter">교수가 본인 ID와 비밀번호 조회</p>
 </figure>
 </div>
 </details>
+
+---
