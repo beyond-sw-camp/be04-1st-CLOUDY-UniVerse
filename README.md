@@ -308,7 +308,7 @@
 
 
 ### master 환경 설정 단계
-1. `Master` mariaDB 설정 파일 수정 
+1. `master` mariaDB 설정 파일 수정 
    - 1.1 주석 처리 된 `log_bin, expire_logs_days, max_binlog_size` 항목 주석 제거 
    - `bind-adress = 0.0.0.0` 으로 수정
    - Write and Quit
@@ -318,7 +318,7 @@
 
 ### slave 환경 설정 단계
 
-1. `Slave` mariaDB 설정 파일 수정 
+1. `slave` mariaDB 설정 파일 수정 
    - 아래로 스크롤하여 `[mysqld]` 하단에 `server-id = n` , `relay_log = mysql-relay-bin`, `log_slave_updates = 1` , `read_only = 1` 를 작성 `n` 은 상황에 따라 변경
 2. mariaDB 재 시작
 3. `slave` 멈추기
@@ -428,15 +428,64 @@ flush privileges;
 
 
 <details>
-<summary>개인정보조회</summary>
+<summary>개인정보 조회</summary>
 <div>
 <figure align="center"> 
   <img src="https://github.com/beyond-sw-camp/be04-1st-CLOUDY-UniVerse/assets/122339395/8b72fb8d-811a-46fa-abe4-f7bf3cf58109"/>
-    <p align="center">학생이 학번이랑 비밀번호 조회</p>
+    <p>학생이 학번이랑 비밀번호 조회</p>
+ </figure>
+  <figure align="center"> 
 <img src="https://github.com/beyond-sw-camp/be04-1st-CLOUDY-UniVerse/assets/122339395/9253ce7a-4695-430f-80fe-5670fe1630be"/>
-    <p align="cneter">교수가 본인 ID와 비밀번호 조회</p>
-</figure>
+    <p>교수가 본인 ID와 비밀번호 조회</p>
+ </figure>
+</div>
+
+<details>
+<summary>학과 조회</summary>
+<div>
+<figure align="center"> 
+  <img src="https://github.com/beyond-sw-camp/be04-1st-CLOUDY-UniVerse/assets/122339395/83965ac3-ebca-4378-88b5-3422619e0104"/>
+  <p>힉생이 자신이 속한 학과 정보 조회</p>
+  <img src="https://github.com/beyond-sw-camp/be04-1st-CLOUDY-UniVerse/assets/122339395/3eaf53a0-623d-46a4-ab32-ff98acbf1aa5"/>
+  <p>교수가 자신이 속한 학과 정보 조회</p>
+ </figure>
 </div>
 </details>
+
+
+<details>
+<summary>학적 조회</summary>
+<div>
+<figure align="center"> 
+  <img src="https://github.com/beyond-sw-camp/be04-1st-CLOUDY-UniVerse/assets/122339395/b72b0c1b-656d-4d68-90c8-61c53e15efe6"/>
+  <p>학생이 개인의 학적 정보를 조회</p>
+ </figure>
+</div>
+</details>
+
+<details>
+<summary>커리큘럼 조회</summary>
+<div>
+<figure align="center"> 
+  <img src="https://github.com/beyond-sw-camp/be04-1st-CLOUDY-UniVerse/assets/122339395/85955338-503c-4342-9109-5c6dcf9d26b8"/>
+  <p>학생이 자신의 커리큘럼 맞게 이수해야 하는 강의를 조회</p>
+ </figure>
+</div>
+</details>
+
+<details>
+<summary>기자재 대여</summary>
+<div>
+<figure align="center"> 
+  <img src="https://github.com/beyond-sw-camp/be04-1st-CLOUDY-UniVerse/assets/122339395/f552ea79-4f0f-4362-935b-3d158d6ad3f0"/>
+  <p>대여 가능한 기자재 조회</p>
+    <img src="https://github.com/beyond-sw-camp/be04-1st-CLOUDY-UniVerse/assets/122339395/a55ef47e-1d0b-44d5-a80c-615badd53bce"/>
+  <p>학생이 자신이 대여한 기자재 조회</p>
+    <img src="https://github.com/beyond-sw-camp/be04-1st-CLOUDY-UniVerse/assets/122339395/f552ea79-4f0f-4362-935b-3d158d6ad3f0"/>
+  <p>교수가 자신이 대여한 기자재 조회</p>
+ </figure>
+</div>
+</details>
+
 
 ---
