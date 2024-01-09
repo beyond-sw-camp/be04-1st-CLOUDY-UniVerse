@@ -27,7 +27,7 @@
     + [서비스 소개 및 목적](#서비스-소개-및-목적)
 - [2. 요구사항정의](#2-요구사항정의)
     + [📖 시나리오](#-시나리오)
-    + [📘 시스템(기능명세)](#-시스템(기능명세))
+    + [📘 시스템(기능명세)](#-시스템기능명세)
     + [✅ 요구사항정의서](#-요구사항정의서)
 - [3. DB 모델링 및 개선과정](#3-DB-모델링-및-개선과정)
   * [📌 목표](#-목표)
@@ -39,7 +39,7 @@
     + [slave에서 INSERT 이벤트 방지를 위한 설정](#slave에서-insert-이벤트-방지를-위한-설정)
     + [구축된 Server 정보](#구축된-server-정보) 
 - [5. 테스트 설계 및 진행](#5-테스트-설계-및-진행)
-    + [🖥️ ️테스트 결과](#🖥-테스트-결과)
+    + [🖥️ ️테스트 결과](#%EF%B8%8F-%EF%B8%8F테스트-결과)
 - [6. 📚 회고](#-회고)
 
 ---
@@ -375,12 +375,13 @@ flush privileges;
 <p align="center">테스트 케이스</p>
 </div>
 
-### 🖥️ ️테스트 결과
+## 🖥️ ️테스트 결과
 
 [![GitHub open issues](https://img.shields.io/github/issues/beyond-sw-camp/be04-1st-CLOUDY-UniVerse)](https://github.com/beyond-sw-camp/be04-1st-CLOUDY-UniVerse/issues)
 
 [![GitHub close issues](https://img.shields.io/github/issues-closed/beyond-sw-camp/be04-1st-CLOUDY-UniVerse)](https://github.com/beyond-sw-camp/be04-1st-CLOUDY-UniVerse/issues?q=is%3Aissue+is%3Aclosed)
 
+### Query TEST
 <details>
 <summary>#ISSUE_개인정보 조회</summary>
 <div>
@@ -551,6 +552,10 @@ flush privileges;
 </div>
 </details>
 
+### TRIGER
+
+
+### VIEW
 
 ---
 
