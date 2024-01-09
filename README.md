@@ -1,5 +1,4 @@
-![venom](https://capsule-render.vercel.app/api?type=venom&height=200&text=한화시스템%20SW%20CAMP%204기%202조&fontSize=40&color=100:ff7f00,100:ff4505&stroke=ffffff)
-
+![venom](https://capsule-render.vercel.app/api?type=venom&height=200&text=한화시스템%20SW%20CAMP%204기%202조&fontSize=40&color=100:ffffff,100:CEE3F6&stroke=ffffff)
 ---
 <a href = "https://demianstudio.notion.site/2-OH-JO-e87da7c22c564501ac72fbbf0f6915f4?pvs=4"><img src="https://img.shields.io/badge/팀 Notion-ffffff?style=flat&logo=Notion&logoColor=black" /></a>
 
@@ -26,6 +25,7 @@
 1. [프로젝트 개요](#프로젝트-개요)
    - [서비스 소개 및 목적](#서비스-소개-및-목적)
    - [전체 프로젝트 일정](#전체-프로젝트-일정)
+2. [요구사항정의](#요구사항정의)
    - [시나리오](#시나리오)
    - [시스템(기능명세)](#시스템기능명세)
    - [요구사항정의서](#요구사항정의서)
@@ -36,6 +36,7 @@
        2. [정규화 이후 ERD 초안 리뷰 및 개선 진행](#2-정규화-이후-erd-초안-리뷰-및-개선-진행)
        3. [ERD 반정규화](#3-erd-반정규화)
        4. [최종 검토 및 개선](#4-최종-검토-및-개선)
+
 ---
 
 # 1. 프로젝트 개요
@@ -370,65 +371,13 @@ flush privileges;
 </div>
 
 ### 🖥️ ️테스트 결과
-<div>
 
 [![GitHub open issues](https://img.shields.io/github/issues/beyond-sw-camp/be04-1st-CLOUDY-UniVerse)](https://github.com/beyond-sw-camp/be04-1st-CLOUDY-UniVerse/issues)
 
 [![GitHub close issues](https://img.shields.io/github/issues-closed/beyond-sw-camp/be04-1st-CLOUDY-UniVerse)](https://github.com/beyond-sw-camp/be04-1st-CLOUDY-UniVerse/issues?q=is%3Aissue+is%3Aclosed)
 
-</div>
-
-<br/>
-
-
-
 <details>
-<summary>출석 조회</summary>
-<div>
-
-<figure align="center"> 
-  <img src="https://github.com/beyond-sw-camp/be04-1st-CLOUDY-UniVerse/assets/122339395/26ae6ce0-55e8-489e-b0af-21b3f14761a4"/>
-</figure>
-
-</div>
-</details>
-
-<details>
-<summary>강의실 대관</summary>
-<div>
-
-<figure align="center"> 
-  <img src="https://github.com/beyond-sw-camp/be04-1st-CLOUDY-UniVerse/assets/122339395/81e994c1-a938-4417-8fc9-0f627508c810"/>
-</figure>
-
-</div>
-</details>
-
-<details>
-<summary>수강생 조회</summary>
-<div>
-
-<figure align="center"> 
-  <img src="https://github.com/beyond-sw-camp/be04-1st-CLOUDY-UniVerse/assets/122339395/2a676ecd-7df4-4e10-85d7-b569e2529b4b"/>
- <figcaption style="text-align:center">최종 테이블 정의서</figcaption>
-</figure>
-
-</div>
-</details>
-
-
-<details>
-<summary>강의 조회</summary>
-<div>
-<figure align="center"> 
-  <img src="https://github.com/beyond-sw-camp/be04-1st-CLOUDY-UniVerse/assets/122339395/0f34b75e-27a2-433e-8f4c-6ed355959c75"/>
- </figure>
-</div>
-</details>
-
-
-<details>
-<summary>개인정보 조회</summary>
+<summary>#ISSUE_개인정보 조회</summary>
 <div>
 <figure align="center"> 
   <img src="https://github.com/beyond-sw-camp/be04-1st-CLOUDY-UniVerse/assets/122339395/8b72fb8d-811a-46fa-abe4-f7bf3cf58109"/>
@@ -440,12 +389,14 @@ flush privileges;
  </figure>
 </div>
 </details>
+
+
 <details>
-<summary>학과 조회</summary>
+<summary>#ISSUE_학과 조회</summary>
 <div>
 <figure align="center"> 
   <img src="https://github.com/beyond-sw-camp/be04-1st-CLOUDY-UniVerse/assets/122339395/83965ac3-ebca-4378-88b5-3422619e0104"/>
-  <p>힉생이 자신이 속한 학과 정보 조회</p>
+  <p>학생이 자신이 속한 학과 정보 조회</p>
   <img src="https://github.com/beyond-sw-camp/be04-1st-CLOUDY-UniVerse/assets/122339395/3eaf53a0-623d-46a4-ab32-ff98acbf1aa5"/>
   <p>교수가 자신이 속한 학과 정보 조회</p>
  </figure>
@@ -453,8 +404,20 @@ flush privileges;
 </details>
 
 
+
 <details>
-<summary>학적 조회</summary>
+<summary>#ISSUE_교수 조회</summary>
+<div>
+<figure align="center"> 
+  <img src="https://github.com/beyond-sw-camp/be04-1st-CLOUDY-UniVerse/assets/122339395/1ee46db9-07fa-4e5f-9cf2-f0bc93b3a2b5"/>
+    <p>교수 조회</p>
+ </figure>
+</div>
+</details>
+
+
+<details>
+<summary>#ISSUE_학적 조회</summary>
 <div>
 <figure align="center"> 
   <img src="https://github.com/beyond-sw-camp/be04-1st-CLOUDY-UniVerse/assets/122339395/b72b0c1b-656d-4d68-90c8-61c53e15efe6"/>
@@ -464,7 +427,17 @@ flush privileges;
 </details>
 
 <details>
-<summary>커리큘럼 조회</summary>
+<summary>#ISSUE_성적 조회</summary>
+<div>
+<figure align="center"> 
+  <img src="https://github.com/beyond-sw-camp/be04-1st-CLOUDY-UniVerse/assets/122339395/3b075293-aef3-402f-bf7a-3695e05189b8"/>
+    <p>성적 조회</p>
+ </figure>
+</div>
+</details>
+
+<details>
+<summary>#ISSUE_커리큘럼 조회</summary>
 <div>
 <figure align="center"> 
   <img src="https://github.com/beyond-sw-camp/be04-1st-CLOUDY-UniVerse/assets/122339395/85955338-503c-4342-9109-5c6dcf9d26b8"/>
@@ -474,7 +447,93 @@ flush privileges;
 </details>
 
 <details>
-<summary>기자재 대여</summary>
+<summary>#ISSUE_수강 신청</summary>
+<div>
+<figure align="center"> 
+  <img src="https://github.com/beyond-sw-camp/be04-1st-CLOUDY-UniVerse/assets/122339395/4ea16777-f927-4d92-ae49-4149be29ab3c"/>
+  <p>수강 신청 목록 조회</p>
+    <img src="https://github.com/beyond-sw-camp/be04-1st-CLOUDY-UniVerse/assets/122339395/6125afc2-bf69-4e53-8931-91a099889ce3"/>
+  <p>수강 신청 추가 가능한 강의 조회</p>
+ </figure>
+</div>
+</details>
+
+<details>
+<summary>#ISSUE_강의 장바구니 조회</summary>
+<div>
+<figure align="center"> 
+  <img src="https://github.com/beyond-sw-camp/be04-1st-CLOUDY-UniVerse/assets/122339395/57cdac15-eb03-401e-99ed-73cec9e24bbc"/>
+  <p>강의 장바구니 조회</p>
+    <img src="https://github.com/beyond-sw-camp/be04-1st-CLOUDY-UniVerse/assets/122339395/c0ffc75e-14bf-4c7a-8c7a-719e13a075d3"/>
+  <p>추가 가능한 강의 조회</p>
+ </figure>
+</div>
+</details>
+
+<details>
+<summary>#ISSUE_수강 내역</summary>
+<div>
+<figure align="center"> 
+  <img src="https://github.com/beyond-sw-camp/be04-1st-CLOUDY-UniVerse/assets/122339395/f59029ea-14a9-436a-bcf5-2483d3682391"/>
+  <p>수강중인 강의 조회</p>
+    <img src="https://github.com/beyond-sw-camp/be04-1st-CLOUDY-UniVerse/assets/122339395/a4465394-ed30-45fe-bc8a-cec1e7594ca3"/>
+  <p>수강완료한 강의 조회</p>
+ </figure>
+</div>
+</details>
+
+<details>
+<summary>#ISSUE_강의 조회</summary>
+<div>
+<figure align="center"> 
+  <img src="https://github.com/beyond-sw-camp/be04-1st-CLOUDY-UniVerse/assets/122339395/5a208eac-567c-444b-827f-5db51b838066"/>
+  <p>강의 조회</p>
+ </figure>
+</div>
+</details>
+
+<details>
+<summary>#ISSUE_수강생 조회</summary>
+<div>
+<figure align="center"> 
+  <img src="https://github.com/beyond-sw-camp/be04-1st-CLOUDY-UniVerse/assets/122339395/ab064610-f570-4e41-b86c-2af5b1cf3b1c"/>
+  <p>수강생 조회</p>
+ </figure>
+</div>
+</details>
+
+<details>
+<summary>#ISSUE_담당 학생 조회</summary>
+<div>
+<figure align="center"> 
+  <img src="https://github.com/beyond-sw-camp/be04-1st-CLOUDY-UniVerse/assets/122339395/506f0cb0-4c96-41d3-a4a2-85a9ed8ad3b1"/>
+    <p>담당 학생 조회</p>
+ </figure>
+</div>
+</details>
+
+<details>
+<summary>#ISSUE_출석 조회</summary>
+<div>
+<figure align="center"> 
+  <img src="https://github.com/beyond-sw-camp/be04-1st-CLOUDY-UniVerse/assets/122339395/0e9bdc53-d595-4132-8b84-0896c6ca2134"/>
+  <p>강의 조회</p>
+ </figure>
+</div>
+</details>
+
+<details>
+<summary>#ISSUE_강의실 대관</summary>
+<div>
+<figure align="center"> 
+  <img src="https://github.com/beyond-sw-camp/be04-1st-CLOUDY-UniVerse/assets/122339395/e2741917-b5a2-465b-91c3-cc15dc560c68"/>
+  <p>강의실 대관</p>
+ </figure>
+</div>
+</details>
+
+<details>
+<summary>#ISSUE_기자재 대여</summary>
 <div>
 <figure align="center"> 
   <img src="https://github.com/beyond-sw-camp/be04-1st-CLOUDY-UniVerse/assets/122339395/f552ea79-4f0f-4362-935b-3d158d6ad3f0"/>
@@ -486,6 +545,15 @@ flush privileges;
  </figure>
 </div>
 </details>
+
+
+
+
+
+
+
+
+
 
 
 ---
