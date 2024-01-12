@@ -4,7 +4,7 @@
 <a href = "https://demianstudio.notion.site/2-OH-JO-e87da7c22c564501ac72fbbf0f6915f4?pvs=4"><img src="https://img.shields.io/badge/팀 Notion-ffffff?style=flat&logo=Notion&logoColor=black" /></a>
 
 #### 🌱 TEAM
-```😎곽윤경 😶‍🌫️김규린 🦄박경덕 🎸이기연 💩이현우 😺임원재```
+[😎곽윤경](https://github.com/noctesilente)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[😶‍🌫️김규린](https://github.com/kyulin-Kim)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[🦄박경덕](https://github.com/DemianStudio)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[🎸이기연](https://github.com/Leegiyeon)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[💩이현우](https://github.com/daersh)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[😺임원재](https://github.com/moomint8)
 
 #### 🚀 Use Tech
 ![Ubuntu](https://img.shields.io/badge/ubuntu-orange?style=for-the-badge&logo=ubuntu)
@@ -591,7 +591,7 @@ flush privileges;
 </details>
 
 
-### _TRIGER_
+### _TRIGGER_
 <details>
 <summary>성적 입력 시 학적테이블의 평균성적이 업데이트되는 트리거</summary>
 <div>
