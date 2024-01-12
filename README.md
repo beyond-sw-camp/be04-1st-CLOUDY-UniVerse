@@ -75,11 +75,13 @@
 <div align="center">
 <img src="https://image.samsungsds.com/kr/insights/2023_cloud_trends_img01.jpg?queryString=20231030024258" alt="">
 <p align="ceneter">[그림 1] 클라우드 활용 현황과 전망</p>
+<p align="ceneter">출처 - 2023년 국내 클라우드 컴퓨팅 도입 현황 조사 및 전망 | 인사이트리포트 | 삼성SDS</p>
 </div>
 
 <div align="center">
 <img src="https://image.samsungsds.com/kr/insights/2023_cloud_trends_img03.jpg?queryString=20231030024258" alt="">
 <p align="ceneter">[그림 2] 클라우드에 대한 기대효과의 변화</p>
+<p align="ceneter">출처 - 2023년 국내 클라우드 컴퓨팅 도입 현황 조사 및 전망 | 인사이트리포트 | 삼성SDS</p>
 </div>
 
 ---
