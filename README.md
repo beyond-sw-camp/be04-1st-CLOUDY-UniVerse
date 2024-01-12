@@ -4,7 +4,7 @@
 <a href = "https://demianstudio.notion.site/2-OH-JO-e87da7c22c564501ac72fbbf0f6915f4?pvs=4"><img src="https://img.shields.io/badge/팀 Notion-ffffff?style=flat&logo=Notion&logoColor=black" /></a>
 
 #### 🌱 TEAM
-```😎곽윤경 😶‍🌫️김규린 🦄박경덕 🎸이기연 💩이현우 😺임원재```
+[😎곽윤경](https://github.com/noctesilente)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[😶‍🌫️김규린](https://github.com/kyulin-Kim)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[🦄박경덕](https://github.com/DemianStudio)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[🎸이기연](https://github.com/Leegiyeon)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[💩이현우](https://github.com/daersh)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[😺임원재](https://github.com/moomint8)
 
 #### 🚀 Use Tech
 ![Ubuntu](https://img.shields.io/badge/ubuntu-orange?style=for-the-badge&logo=ubuntu)
@@ -24,7 +24,8 @@
 ---
 # 📌 목차
 - [1. 프로젝트 개요](#1-프로젝트-개요)
-  + [서비스 소개 및 목적](#서비스-소개-및-목적)
+  + [프로젝트 시나리오](#프로젝트-시나리오)
+  + [클라우드 활용 현황 및 기대에 대한 시각 자료](#클라우드-활용-현황-및-기대에-대한-시각-자료)
 - [2. 요구사항정의](#2-요구사항정의)
   + [📖 시나리오](#-시나리오)
   + [📘 시스템(기능명세)](#-시스템기능명세)
@@ -52,20 +53,26 @@
 
 --- 
 
+> **CLOUDY**라는 기업은 고객이 데이터를 다양하게 활용할 수 있도록 IT 인프라 기획 및 구축을 도와주는 기업이다.
+> 
+> **UniVerse**라는 프로젝트명으로 고객(대학)에게 서비스를 제공하려고 한다.
+> 
+> **[요구 사항]:** 고객(대학)은 기존 통합 관리 시스템에서 누적된 학생 데이터를 활용하여 다양하고 학생들이 필요한 맞춤형 서비스를 제공하고자 한다.
+> 
+> **[한계]:** 고객(대학)이 온프레미스 서버 형태로 요구된 서비스를 제공하려면 클라우드 서비스를 직접 구축해야한다.
+>
+> **[솔루션]:** 클라우드 형태의 서버를 구축함으로써 타 기업에서 제공하는 다양한 클라우드 서비스를 이용할 수 있도록 한다.
 
 
-### 서비스 소개 및 목적
-> **💡 고객(대학)이 기존 통합 관리 시스템에서 학사 관리, 재무, 학생 정보 등 다양한 기능 단위 서비스를 운영하고 확장하는 것에 어려움이 있기에 클라우드 기술을 도입함으로써, 유지보수 및 기능개선에 더 용이한
-서비스(사용자 경험 개선, 데이터 통합 및 분석, 자동화 및 프로세스 최적화, 지속적인 개선 및 확장 유연성, 그리고 협력과 표준 준수를 통한 효율적인 운영)를 제공하고자 합니다.**
-
+### 클라우드 활용 현황 및 기대에 대한 시각 자료
 <div align="center">
 <img src="https://image.samsungsds.com/kr/insights/2023_cloud_trends_img01.jpg?queryString=20231030024258" alt="">
-<p align="ceneter">[그림 1] 클라우드 컴퓨팅 활용 현황과 전망</p>
+<p align="ceneter">[그림 1] 클라우드 활용 현황과 전망</p>
 </div>
 
 <div align="center">
 <img src="https://image.samsungsds.com/kr/insights/2023_cloud_trends_img03.jpg?queryString=20231030024258" alt="">
-<p align="ceneter">[그림 2] 클라우드 컴퓨팅에 대한 기대효과의 변화</p>
+<p align="ceneter">[그림 2] 클라우드에 대한 기대효과의 변화</p>
 </div>
 
 
